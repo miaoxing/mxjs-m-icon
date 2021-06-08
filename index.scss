@@ -1,0 +1,44 @@
+// @internal
+
+@font-face {
+  font-family: "mxi"; /* Project id 2600844 */
+  src:
+    url('//at.alicdn.com/t/font_2600844_lhoml4n1u3r.woff2?t=1623164664945') format('woff2'),
+    url('//at.alicdn.com/t/font_2600844_lhoml4n1u3r.woff?t=1623164664945') format('woff'),
+    url('//at.alicdn.com/t/font_2600844_lhoml4n1u3r.ttf?t=1623164664945') format('truetype');
+}
+
+.mxi {
+  font-family: "mxi" !important; // stylelint-disable font-family-no-missing-generic-family-keyword
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mxi-share::before {
+  content: "\e65b";
+}
+
+.mxi-home::before {
+  content: "\e604";
+}
+
+.mxi-cart::before {
+  content: "\e606";
+}
+
+.mxi-arrow-down::before {
+  content: "\e60a";
+}
+
+.mxi-arrow-up::before {
+  content: "\e60b";
+}
+
+.mxi-arrow-left::before {
+  content: "\e60c";
+}
+
+.mxi-arrow-right::before {
+  content: "\e609";
+}
