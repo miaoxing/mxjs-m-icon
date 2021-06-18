@@ -3,9 +3,9 @@
 @font-face {
   font-family: "mxi"; /* Project id 2600844 */
   src:
-    url('//at.alicdn.com/t/font_2600844_lhoml4n1u3r.woff2?t=1623164664945') format('woff2'),
-    url('//at.alicdn.com/t/font_2600844_lhoml4n1u3r.woff?t=1623164664945') format('woff'),
-    url('//at.alicdn.com/t/font_2600844_lhoml4n1u3r.ttf?t=1623164664945') format('truetype');
+    url('//at.alicdn.com/t/font_2600844_4upn70q1eb6.woff2?t=1624028654410') format('woff2'),
+    url('//at.alicdn.com/t/font_2600844_4upn70q1eb6.woff?t=1624028654410') format('woff'),
+    url('//at.alicdn.com/t/font_2600844_4upn70q1eb6.ttf?t=1624028654410') format('truetype');
 }
 
 .mxi {
@@ -33,6 +33,10 @@
 
 .mxi-arrow-up::before {
   content: "\e60b";
+}
+
+.mxi-chevron-down::before {
+  content: "\e65c";
 }
 
 .mxi-arrow-left::before {
