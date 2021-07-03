@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon basic 1`] = `
+<div>
+  <taro-text-core
+    class="mxi mxi-share"
+  />
+</div>
+`;
