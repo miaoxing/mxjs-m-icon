@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-m-icon/compare/v1.0.1...v1.1.0) (2023-01-01)
+
+
+### Features
+
+* 更新 `fower` 到 `~1.75.0` ([77e7c02](https://github.com/miaoxing/mxjs-m-icon/commit/77e7c023fc81945ec47fcce01c9df59327d8b07d))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [1.0.1](https://github.com/miaoxing/mxjs-m-icon/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
